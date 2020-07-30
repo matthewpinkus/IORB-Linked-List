@@ -1,7 +1,8 @@
 # IORB-Linked-List
 Year 2 Semester 1 Systems Programming Assignment 1
 
-Compiling and Running:
+	Compiling and Running:
+	
 	Non executable compiling (main.c, sortList.h):
 		Save both main.c and sortList.h to the same directory (desktop works best)
 		Through your terminal, access the directory in which the program is saved (cd to desktop)
